@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp;I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Thank you for visiting my github! &nbsp;I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 [<img background="black" src="./experience.svg">]()
 
@@ -53,5 +53,6 @@
 - 👍 Please contact me and build your dream come true!
 <br />
 [<img src="./chart.svg">]()
+
 
 </br>
