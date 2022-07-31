@@ -2,13 +2,13 @@
 <!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
-</p align="center">
+<!-- </p align="center">
 ### Glad to see you here! &nbsp;I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+ -->
 [<img background="black" src="images/experience.svg">]()
 
 
-</p>
+<!-- </p> -->
 
 <!-- <p align="center">
   I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
