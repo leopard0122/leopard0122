@@ -3,7 +3,9 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+### Glad to see you here! &nbsp;I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+[<img background="black" src="images/experience.svg">]()
 
 <p align="center">
  
