@@ -55,7 +55,7 @@ quare&logo=html5&logoColor=white"/>
 
 
 <p align = "center">
- <img src="./chart.svg">
+ <img src="../chart.svg">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
