@@ -53,6 +53,17 @@ quare&logo=html5&logoColor=white"/>
  
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" center />
+
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I'm a Senior Software Developer since 2015.
+- 📝 I Build Well-Structured Software Based On SOLID/DRY/KISS Principle.
+- 🚀 I Translate Client's Great Idea To A Fully-Functional System.
+- 👍 Please contact me and build your dream come true!
+<br />
+
 
 <p align = "center">
  <img src="images/chart.svg">
