@@ -54,7 +54,7 @@ quare&logo=html5&logoColor=white"/>
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I'm a Senior Software Developer since 2015.
+- 👨🏻‍💻 I'm a Senior Software Developer since 2019.
 - 📝 I Build Well-Structured Software Based On SOLID/DRY/KISS Principle.
 - 🚀 I Translate Client's Great Idea To A Fully-Functional System.
 - 👍 Please contact me and build your dream come true!
