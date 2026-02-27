@@ -1,68 +1,76 @@
+<!-- Backend-Focused GitHub README -->
 
-<!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-<!-- </p align="center">
-### Glad to see you here! &nbsp;I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
- -->
-[<img background="black" src="images/experience.svg">]()
+<h1 align="center">Hi 👋 I'm Wilbert Pangilinan</h1>
+<h3 align="center">Senior Backend Engineer | .NET | Node.js | Microservices | Distributed Systems</h3>
 
+<br/>
 
-<!-- </p> -->
-
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Backend Technology Stack</h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-s
-quare&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REST%20API-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Distributed%20Systems-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CI/CD-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </p>
 
+---
 
+<h2 align="center">About Me</h2>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+- 👨🏻‍💻 Senior Backend Engineer with 7+ years of experience in high-performance system design  
+- 🧠 Specialized in Microservices and Distributed Systems architecture  
+- ⚙️ Building scalable REST APIs using .NET / ASP.NET Core and Node.js  
+- 🗄️ Strong expertise in SQL Server, PostgreSQL, MongoDB, and Redis  
+- ☁️ Cloud-native backend deployments on Azure and AWS  
+- 🐳 Containerized systems using Docker & Kubernetes  
+- 🔄 CI/CD-driven development with production-grade reliability  
+- 📈 Performance optimization, scalability, and clean architecture advocate (SOLID principles)
 
-<!-- <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-  -->
-<br>
+---
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" center />
+<h2 align="center">What I Focus On</h2>
 
+✔ Designing scalable backend systems  
+✔ API architecture & performance optimization  
+✔ Cloud-native microservices  
+✔ Secure, maintainable, production-grade systems  
+✔ Database performance tuning & distributed messaging  
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏻‍💻 I'm a Senior Software Developer since 2019.
-- 📝 I Build Well-Structured Software Based On SOLID/DRY/KISS Principle.
-- 🚀 I Translate Client's Great Idea To A Fully-Functional System.
-- 👍 Please contact me and build your dream come true!
-<br />
+<h2 align="center">System Design Mindset</h2>
 
+I design backend systems with:
 
-<!-- <p align = "center">
- <img src="images/chart.svg">
-</p>  -->
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+- High availability  
+- Low latency  
+- Horizontal scalability  
+- Clean separation of concerns  
+- Event-driven architecture when needed  
+- Production observability and reliability  
+
+---
+
+<h2 align="center">Let’s Build Scalable Systems</h2>
+
+If you're looking for a backend engineer focused on performance, architecture, and reliability — let's connect.
+
+---
+
+<p align="center">⭐ If you like my work, feel free to fork and star!</p>
