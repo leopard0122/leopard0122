@@ -1,6 +1,5 @@
 <!-- Backend-Focused GitHub README -->
 
-<h1 align="center">Hi 👋 I'm Wilbert Pangilinan</h1>
 <h3 align="center">Senior Backend Engineer | .NET | Node.js | Microservices | Distributed Systems</h3>
 
 <br/>
