@@ -32,7 +32,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 👨🏻‍💻 Senior Backend Engineer with 7+ years of experience in high-performance system design  
+- 👨🏻‍💻 Senior Backend Engineer with 5+ years of experience in high-performance system design  
 - 🧠 Specialized in Microservices and Distributed Systems architecture  
 - ⚙️ Building scalable REST APIs using .NET / ASP.NET Core and Node.js  
 - 🗄️ Strong expertise in SQL Server, PostgreSQL, MongoDB, and Redis  
